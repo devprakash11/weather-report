@@ -27,6 +27,7 @@ Welcome to the Weather Report project! This project aims to provide users with a
 
 # Technologies Used:
 
+
 - HTML: Markup language for structuring the web page content.
 - CSS: Styling language for enhancing the visual presentation and layout of the application.
 - JavaScript: Programming language for implementing interactive features, fetching weather data, and handling user interactions.
